@@ -24,3 +24,10 @@ A Java-based University Management System implementing core features like studen
 
 ## How to Run
 1. Clone the repository:
+2.  Import the project into your IDE (e.g., IntelliJ, Eclipse).
+3. Set up the MySQL database using the provided SQL scripts.
+4. Update database connection settings in the code as needed.
+5. Compile and run the Java application.
+
+## License
+This project is released under the MIT License.
